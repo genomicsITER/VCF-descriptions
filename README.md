@@ -1,6 +1,8 @@
 # VCF-descriptions
 Description of VCF fields for different variant-callers
 <br>
+Platypus. See more at: http://www.well.ox.ac.uk/platypus
+<br>
 # Example of a multiple-sample VCF (5 samples; adapted from a 45-samples original VCF)<br>
 --------------------------------------------<br>
 #CHR	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	sample1	sample2	sample3	sample4	sample5	etc.<br>
